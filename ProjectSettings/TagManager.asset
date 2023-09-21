@@ -7,6 +7,9 @@ TagManager:
   - Enemy
   - Projectile
   - Bonus
+  - Item
+  - Wave
+  - EnemyProjectile
   layers:
   - Default
   - TransparentFX
